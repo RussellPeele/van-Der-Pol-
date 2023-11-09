@@ -1,6 +1,7 @@
 #Existence of Periodic orbit in van der Pol, proof: 
 # x' = y
 # y' = mu(1-x^2)y -x
+# I think everything is correct so far! 
 
 using RadiiPolynomial
 
